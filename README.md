@@ -109,6 +109,7 @@ The pipeline generates:
 * Sample outputs are included for demonstration
 * The pipeline is modular and can be adapted to similar datasets
 * Some domain-specific details have been abstracted for general use
+* This pipeline is a submodule of a larger high-dimensional HIV research workflow. It focuses on a specific analytical task while the overarching project remains confidential.
 
 ---
 
